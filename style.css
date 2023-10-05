@@ -1,0 +1,23 @@
+h1 {
+    font-family: arial;
+    color: rgb(52, 37, 88);
+  }
+  
+  body {
+    margin: 20px;
+  }
+  
+  canvas {
+    width: 300pt;
+    height: 200pt;
+    margin: 10px;
+    border: 2px solid rgb(88, 46, 46);
+  }
+  
+  input {
+    font-size: 20pt;
+  }
+  
+  .orangeback {
+    background-color: rgb(166, 255, 0);
+  }
